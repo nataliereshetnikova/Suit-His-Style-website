@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    max-width:  750px;
+
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width:100%;
+}
+i{
+    font-size: 12px;
+    color: grey;
+    opacity: 30%;
+    padding: 10px;
+}
+p{
+    font-size: 16px;
+}
